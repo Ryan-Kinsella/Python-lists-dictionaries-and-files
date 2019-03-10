@@ -1,0 +1,28 @@
+Smith, Jack
+1223-33
+Drug Possession
+10
+McViker, Sean
+1123-98
+Fraud
+5
+Hammer, Jack
+1124-44
+Drug Trafficking
+15
+Snead, Sam
+2234-98
+Assault
+4
+Banshie, Urie
+9879-33
+Armed Robbery
+12
+King, Karl
+4454-33
+Fraud
+7
+Baker, Gord
+5667-44
+Fraud
+11
